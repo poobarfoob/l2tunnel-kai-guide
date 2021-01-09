@@ -10,3 +10,9 @@ If the "Attached To" option is set to "User(NAT)", click on disable (if enabled 
 Change "Remote Host" to 127.0.0.1:9367 and change "Local Host" to 0.0.0.0:9368.
 
 ![BRUH I CANT GET THIS TO WORK WHY](https://github.com/poobarfoob/l2tunnel-kai-guide/blob/main/Images/xemu%20network%20settings.png?raw=true)
+
+GETTING XEMU's MAC ADDRESS
+
+![](https://github.com/poobarfoob/l2tunnel-kai-guide/blob/main/Images/dash%20part%201.png?raw=true)
+![](https://github.com/poobarfoob/l2tunnel-kai-guide/blob/main/Images/dash%20part%202.png?raw=true)
+![](https://github.com/poobarfoob/l2tunnel-kai-guide/blob/main/Images/dash%20part%203.png?raw=true)
