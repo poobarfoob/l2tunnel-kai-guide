@@ -4,7 +4,9 @@ You'll want to start with getting l2tunnel, you can use the provided script ("Cl
 
 Once you get L2Tunnel to compile, you can test if it runs by just doing /l2tunnel. If that works then go ahead and continue reading.'
 
-L2Tunnel needs special privileges to operate properly. You need to type/copy+paste this into the terminal: ```sudo setcap cap_net_raw,cap_net_admin=eip l2tunnel```
+L2Tunnel needs special privileges to operate properly. You need to type/copy+paste this into the terminal: 
+
+```sudo setcap cap_net_raw,cap_net_admin=eip l2tunnel```
 
 Now go ahead and open "List Available Network Interfaces.sh" and it should list either a bunch or just some network interfaces.
 
