@@ -9,4 +9,4 @@ You'll want to open Xemu, go to the "Machine" tab and open the "Network" setting
 If the "Attached To" option is set to "User(NAT)", click on disable (if enabled already) and choose Socket instead.
 Change "Remote Host" to 127.0.0.1:9367 and change "Local Host" to 0.0.0.0:9368.
 
-![BRUH I CANT GET THIS TO WORK WHY](https://raw.githubusercontent.com/poobarfoob/l2tunnel-kai-guide/main/Images/xemu%20networking%20tab.png)
+![BRUH I CANT GET THIS TO WORK WHY]()
