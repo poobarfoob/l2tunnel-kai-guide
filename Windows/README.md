@@ -21,8 +21,6 @@ Once you're done testing if you have the right interface, right click on "Start 
 
 Go ahead and open "Start Tunneling.bat"
 
-![image goes here]()
-![image goes here]()
-
+![image goes here](https://github.com/poobarfoob/l2tunnel-kai-guide/blob/main/Images/tunneling.png?raw=true)
 
 Open XLink Kai (optionally navigate to an arena or just monitor the metrics tab) and Xemu, then open "Start Tunneling.bat" and you should Xemu get recognized. You can verify if it is by checking the MAC Address.
