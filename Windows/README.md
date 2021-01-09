@@ -10,8 +10,6 @@ Now go ahead and open "List Available Network Interfaces.bat" and it should list
 
 You'll want to write down the network interface that you're currently using, like your ethernet adapter or wifi.
 
-![image goes here]()
-
 Using that interface, right click on "Discover MAC Addresses.bat" and choose "Edit". In the "YOUR ADAPTER HERE" section, paste in your interface then save and exit. Run the script to verify you have the correct interface.
 
 ![image goes here](https://github.com/poobarfoob/l2tunnel-kai-guide/blob/main/Images/edit%20discover%20script.png?raw=true)
