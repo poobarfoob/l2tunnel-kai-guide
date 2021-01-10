@@ -1,6 +1,6 @@
 Provided here are 3 batch scripts you can use to set up L2Tunnel for use with XLink Kai.
 
-You'll want to start with getting l2tunnel at: https://github.com/mborgerson/l2tunnel/releases/
+You'll want to start with getting [l2tunnel](https://github.com/mborgerson/l2tunnel/releases/) and [npcap](https://nmap.org/npcap/dist/npcap-1.10.exe)
 
 Once you get l2tunnel, copy or move l2tunnel.exe into this folder or you can move the batch scripts into a folder with l2tunnel in it.
 
