@@ -1,6 +1,6 @@
-Provided here are 4 bash scripts you can use to set up L2Tunnel for use with XLink Kai.
+Provided here is a bash script you can use to set up L2Tunnel for use with XLink Kai.
 
-You'll want to start with getting l2tunnel, you can use the provided script ("Clone and Compile L2Tunnel.sh") to download and compile l2tunnel (assuming you have git and libpcap installed).
+You'll want to start with getting l2tunnel, you can use the provided script ("Clone and Setup.sh") to download and compile l2tunnel (assuming you have git and libpcap installed).
 
 Once you get L2Tunnel to compile, cd into the L2Tunnel and test if it runs by just doing ./l2tunnel. If that works then go ahead and continue reading.
 
