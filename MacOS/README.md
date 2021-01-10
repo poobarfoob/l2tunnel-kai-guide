@@ -1,1 +1,1 @@
-I DONT HAVE A MAC, CAN SOMEONE PLEASE DO THIS FOR ME.
+Since I dont own a Mac or anything that can use MacOS, I unfortunately cannot help on this side of things. If someone with knowledge on l2tunnel and bash scripts can work on this and just sumbit changes in a pull request that would be awesome.
