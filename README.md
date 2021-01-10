@@ -1,6 +1,6 @@
 ![I should've been working on the Linux part of this setup but I decided to make this and idk why](https://github.com/poobarfoob/l2tunnel-kai-guide/blob/main/Images/this%20shouldnt%20have%20taken%20more%20than%2030%20fucking%20minutes%20to%20make%20but%20here%20we%20are.png?raw=true)
 
-This is a guide meant to help others use L2Tunnel to play on XLink Kai with Xemu. It is unknown if this will with with XQEMU, but you're more than welcome to open a pull request with a section for XQEMU if you do figure out how to do it on there.
+This is a guide meant to help others use L2Tunnel to play on XLink Kai with Xemu. It is unknown if this will work with XQEMU, but you're more than welcome to open a pull request with a section for XQEMU if you do figure out how to do it on there.
 
 Users on Linux and Windows can use the provided scripts to make the process a little easier. Unfortunately I don't have scripts available for MacOS at the moment.
 
