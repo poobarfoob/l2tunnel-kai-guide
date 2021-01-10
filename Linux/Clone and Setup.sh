@@ -16,6 +16,6 @@ read -p "Please provide the MAC Address of Xemu: " xemumacadd
 printf "\nCreating a bash script you can execute to use XLink Kai with Xemu with ./tunnel.sh\n"
 printf "./l2tunnel tunnel "$interfaceval" -d "$xemumacadd" 0.0.0.0 9367 127.0.0.1 9368" > ../tunnel.sh
 chmod +x ../tunnel.sh
-cp l2tunnel ../l2tunnel
+mv l2tunnel ../
 cd ..
 rm L2Tunnel -r -f
