@@ -12,7 +12,7 @@ printf "\nBefore testing the interface, please permit L2Tunnel to allow for raw 
 sudo setcap cap_net_raw,cap_net_admin=eip l2tunnel
 printf "\nTesting if this is the correct interface. If this interface is incorrect, please abort by doing Ctrl+C and try again.\nIf this is correct you should see a bunch of MAC Addresses flood the terminal for 5 seconds.\n"
 timeout 5s $pwd./l2tunnel discover $interfaceval
-read -p "Please provide the MAC Address of Xemu: " xemumacadd
+read -p "Please provide Xemu's MAC Address: " xemumacadd
 printf "\nCreating a bash script you can execute to use XLink Kai with Xemu with ./tunnel.sh\n"
 printf "./l2tunnel tunnel "$interfaceval" -d "$xemumacadd" 0.0.0.0 9367 127.0.0.1 9368" > ../tunnel.sh
 chmod +x ../tunnel.sh
