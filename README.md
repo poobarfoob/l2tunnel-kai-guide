@@ -4,8 +4,6 @@ This is a guide meant to help others use l2tunnel to play on XLink Kai with Xemu
 
 You can use the provided scripts to make the process a little easier. Images will be added in as I go.
 
-IMPORTANT: LINUX AND MACOS USERS, YOU MUST COMPILE [L2TUNNEL](https://github.com/mborgerson/l2tunnel).
-
 Setting Up Xemu
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This process should be the same across all platforms, so it can just go here I suppose
@@ -22,3 +20,4 @@ Getting Xemu's MAC Address
 ![](https://github.com/poobarfoob/l2tunnel-kai-guide/blob/main/Images/dash%20part%201.png?raw=true)
 ![](https://github.com/poobarfoob/l2tunnel-kai-guide/blob/main/Images/dash%20part%202.png?raw=true)
 ![](https://github.com/poobarfoob/l2tunnel-kai-guide/blob/main/Images/dash%20part%203.png?raw=true)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
