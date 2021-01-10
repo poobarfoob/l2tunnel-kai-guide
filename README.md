@@ -2,11 +2,11 @@
 
 This is a guide meant to help others use l2tunnel to play on XLink Kai with Xemu. It is unknown if this will with with XQEMU, but you're more than welcome to open a pull request with a section for XQEMU if you do figure out how to do it on there.
 
-You can use the provided scripts to make the process a little easier. Images will be added in as I go.
+You can use the provided scripts to make the process a little easier.
 
 Setting Up Xemu
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This process should be the same across all platforms, so it can just go here I suppose
+This process should be the same across all platforms.
 
 You'll want to open Xemu, go to the "Machine" tab and open the "Network" settings
 If the "Attached To" option is set to "User(NAT)", click on disable (if enabled already) and choose Socket instead.
