@@ -1,7 +1,7 @@
 #!/bin/bash
 #interfaceval="pee pee poo poo"
 #xemumacadd="haha xemu go brrr"
-printf "\nThis script is intended to list all interfaces that L2Tunnel can use. If you know the interface that L2Tunnel needs to use, go ahead and type it in.\n"
+printf "\nThis script is intended to list all interfaces that L2Tunnel can use. If you know the interface that L2Tunnel needs to use, go ahead and type it in.\n\n"
 ./l2tunnel list
 read -p "Please enter the interface that L2Tunnel will use: " interfaceval
 printf "\nTesting if this is the correct interface. If this interface is incorrect, please abort by doing Ctrl+C and try again.\nIf this is correct you should see a bunch of MAC Addresses flood the terminal for 5 seconds.\n"
