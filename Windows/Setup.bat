@@ -11,7 +11,7 @@ cls
 
 rem Interface discovery
 l2tunnel list
-set /p INTERFACEVAR=Please enter the interface that L2Tunnel will use (NOTE: You must type/copy+paste the \Device\NPF_..." string and not "Device 0/1/2/3/4..."): 
+set /p INTERFACEVAR=Please enter the interface that L2Tunnel will use (NOTE: You must type/copy+paste the \Device\NPF_..." string and not "Device 0/1/2/3/4..."):
 cls
 
 echo Testing if this is the correct interface. If this interface is incorrect, please abort by doing Ctrl+C and try again. If this is correct you should see a bunch of MAC Addresses flood the terminal for 5 seconds.
