@@ -1,3 +1,5 @@
+THIS HAS BEEN SUPERCEDED WITH THE NEW TAP METHOD.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![I should've been working on the Linux part of this setup but I decided to make this and idk why](https://github.com/poobarfoob/l2tunnel-kai-guide/blob/main/Images/this%20shouldnt%20have%20taken%20more%20than%2030%20fucking%20minutes%20to%20make%20but%20here%20we%20are.png?raw=true)
 
 This is a guide meant to help others use L2Tunnel to play on XLink Kai with Xemu.
